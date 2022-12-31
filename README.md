@@ -1,8 +1,8 @@
 # projet-c-de-Sofiene-trabelsi-et-Mouna-hachicha
 
-stockini est une simple application cmd de gestion de stock écrit en langage C.
+Stockini est une simple application cmd de gestion de stock écrit en langage C.
 Il permet de voir le stock en cours des produits 
-stockini assure aussi les taches suivantes :
+Stockini assure aussi les taches suivantes :
 ● Ajouter un produit.
 ● Modifier un rpoduit 
 ● Supprimer un produit.
